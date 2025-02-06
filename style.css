@@ -1,10 +1,10 @@
 html {
-  background-color: #004ce4;
+  background-color: #fFffff;
 }
 
 body {
   font-family: "Roboto Slab", serif;
-  color: #ffffff;
+  color: #04005d;
   line-height: 1.4;
 }
 
@@ -15,8 +15,8 @@ h1 {
 }
 
 a {
-  font-size: 30px;
-  color: #ffffff;
+  font-size: 25px;
+  color: #04005d;
   text-decoration-line: none;
 }
 
@@ -36,11 +36,11 @@ img {
 
 .card {
   border-radius: 30px;
-  background: #004ce4;
+  background: #FFFFFF;
   padding: 40px 50px 50px 50px;
   width: 700px;
   height: 400px;
-  box-shadow: 0px 0px 200px #0000008a;
+  box-shadow: 0px 0px 200px #000035;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -120,4 +120,5 @@ img {
   #content {
     font-size: 20px;
   }
+
 }
